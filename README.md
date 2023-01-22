@@ -1,2 +1,2 @@
 # mirrorlist
-mirror list for arch and arch base for my desktop from Lam Dong, Vietnam
+mirror list for arch and arch based of my desktop from Lam Dong, Vietnam
